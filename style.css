@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+.row{
+    background-color:whitesmoke;
+    border-color: purple;
+
+}
+.navbar-brand{
+    padding-left: 20px;
+}
+.copy{
+    background-color: darkgray;
+    padding-bottom: 10px;
+}
+.column
+{
+    padding-top: 10px;
+}
+#features{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+
+
